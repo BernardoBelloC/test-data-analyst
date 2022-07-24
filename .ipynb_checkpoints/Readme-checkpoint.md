@@ -34,6 +34,11 @@ Preguntas para responder:
 -¿Qué mes tiene el mayor número de cancelaciones?  
 
  
+
+ 
+
+ 
+
 -Antes de intentar hacer los análisis correspondientes, asegúrate de hacer una correcta limpieza de los datos. 
 
  
